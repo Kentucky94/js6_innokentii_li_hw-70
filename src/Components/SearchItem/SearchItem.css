@@ -1,0 +1,9 @@
+.SearchItem{
+  padding: 10px;
+}
+
+.SearchItem:hover{
+  background: dodgerblue;
+  color: #fff;
+  cursor: pointer;
+}
